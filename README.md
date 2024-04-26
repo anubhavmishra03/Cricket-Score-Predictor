@@ -6,6 +6,14 @@
 
 Last 10 year ball-by-ball odi matches data
 
+**Technology Used:**
+1. Machine Learning
+2. Streamlit
+3. Pandas
+4. Numpy
+5. Jupyter
+6. Python
+
 **Accuracy:**
 
 98.87
